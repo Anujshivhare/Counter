@@ -20,7 +20,7 @@ Counter is a simple yet versatile counter application built with React. It allow
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/counter.git
+    git clone https://github.com/Anujshivhare/Counter
     ```
 
 2. Navigate to the project directory:
