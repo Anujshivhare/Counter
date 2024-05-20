@@ -26,7 +26,7 @@ Counter is a simple yet versatile counter application built with React. It allow
 2. Navigate to the project directory:
 
     ```bash
-    cd counter
+    cd Counter
     ```
 
 3. Install dependencies:
@@ -38,7 +38,7 @@ Counter is a simple yet versatile counter application built with React. It allow
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the application in action.
+5. Open your browser and visit [http://localhost:5173](http://localhost:5173/) to see the application in action.
