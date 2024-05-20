@@ -1,6 +1,6 @@
 # Counter
 
-![Counter](https://i.ibb.co/QPrJTmn/Counter-2.png)
+![Counter](https://i.ibb.co/bXFcqP7/Counter-2.png)
 
 Counter is a simple yet versatile counter application built with React. It allows users to increment, decrement, and set the counter value directly.
 
